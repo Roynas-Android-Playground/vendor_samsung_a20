@@ -44,7 +44,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a20/proprietary/vendor/lib/hw/thermal.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/thermal.exynos7884B.so \
     vendor/samsung/a20/proprietary/vendor/lib/libOpenCv.camera.samsung.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOpenCv.camera.samsung.so \
     vendor/samsung/a20/proprietary/vendor/lib/libSEF.quram.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSEF.quram.so \
-    vendor/samsung/a20/proprietary/vendor/lib/lib_SamsungRec_07001.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_SamsungRec_07001.so \
     vendor/samsung/a20/proprietary/vendor/lib/libexynoscamera3.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexynoscamera3.so \
     vendor/samsung/a20/proprietary/vendor/lib/libsaiv_BeautySolutionVideo.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsaiv_BeautySolutionVideo.so \
     vendor/samsung/a20/proprietary/vendor/lib/libuniapi.so:$(TARGET_COPY_OUT_VENDOR)/lib/libuniapi.so \
