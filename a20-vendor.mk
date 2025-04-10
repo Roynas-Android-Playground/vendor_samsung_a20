@@ -38,7 +38,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a20/proprietary/vendor/lib/hw/camera.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.exynos7884B.so \
     vendor/samsung/a20/proprietary/vendor/lib/hw/gatekeeper.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.exynos7884B.so \
     vendor/samsung/a20/proprietary/vendor/lib/hw/sensors.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.exynos7884B.so \
-    vendor/samsung/a20/proprietary/vendor/lib/hw/thermal.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/thermal.exynos7884B.so \
     vendor/samsung/a20/proprietary/vendor/lib/libOpenCv.camera.samsung.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOpenCv.camera.samsung.so \
     vendor/samsung/a20/proprietary/vendor/lib/libSEF.quram.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSEF.quram.so \
     vendor/samsung/a20/proprietary/vendor/lib/libexynoscamera3.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexynoscamera3.so \
@@ -51,7 +50,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a20/proprietary/vendor/lib64/hw/camera.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.exynos7884B.so \
     vendor/samsung/a20/proprietary/vendor/lib64/hw/gatekeeper.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gatekeeper.exynos7884B.so \
     vendor/samsung/a20/proprietary/vendor/lib64/hw/sensors.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/sensors.exynos7884B.so \
-    vendor/samsung/a20/proprietary/vendor/lib64/hw/thermal.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/thermal.exynos7884B.so \
     vendor/samsung/a20/proprietary/vendor/lib64/hw/vendor.samsung.hardware.gnss@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.samsung.hardware.gnss@2.0-impl.so \
     vendor/samsung/a20/proprietary/vendor/lib64/libOpenCv.camera.samsung.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOpenCv.camera.samsung.so \
     vendor/samsung/a20/proprietary/vendor/lib64/libSEF.quram.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSEF.quram.so \
